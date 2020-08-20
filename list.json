@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "message": "success",
+    "example": [
+        {
+            "id" : 1,
+            "nama" : "lampu",
+            "daya" : 40,
+            "waktu" : 5,
+            "biaya" : 100
+        },
+        {
+            "id" : 2,
+            "nama" : "kipas angin",
+            "daya" : 60,
+            "waktu" : 4,
+            "biaya" : 100
+        }
+    ]
+}
